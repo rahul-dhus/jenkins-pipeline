@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ehco "testing of external shell script "
+echo "testing of external shell script "
